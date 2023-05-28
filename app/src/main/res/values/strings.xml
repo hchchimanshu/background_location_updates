@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationUpdates</string>
+
+    <string name="title_text">Step to get Location Coordinates in Logcat after 3 seconds\n[Also in the background]</string>
+    <string name="location_permission">1. Location Permission</string>
+    <string name="background_permission">2. Background Permission\n[Click on Allow All the time]</string>
+    <string name="start_service">3. Start Service</string>
+    <string name="stop_service">If you want to Stop Service, click here..</string>
+</resources>
